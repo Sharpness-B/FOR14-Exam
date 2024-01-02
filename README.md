@@ -1,11 +1,10 @@
-# FOR14-Exam
+# Car sharing reservations scheduling problem
 FOR14 Algorithms and Computer Programming with Python
 
 The report can be accessed here: 
 
 
 Python 3.11.5
-
 
 numpy==1.24.3
 
