@@ -3,6 +3,7 @@ FOR14 Algorithms and Computer Programming with Python
 
 The report can be accessed here: [link](https://filefora.no/dokumenter/detaljer/for14-to-ars-erfaring-som-proff-softwareutvikler-perfekt-a-besvarelse)
 
+![result](result.png)
 
 Python 3.11.5
 
