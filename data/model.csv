@@ -1,0 +1,22 @@
+;model_id;model_name;category_id;seats
+0;15;Peugeot 208;3;5
+2;5;Toyota Yaris Hybrid;3;5
+3;7;Toyota RAV4 Hybrid;5;5
+4;4;Toyota Auris Hybrid;1;5
+5;12;Peugeot Partner;6;3
+7;55;jaguar-ipace;5;5
+8;16;Skoda Octavia;1;5
+9;13;Peugeot Expert ;6;3
+10;53;Toyota Proace;6;3
+11;8;Toyota Prius+;4;7
+12;52;Skoda Citigo E;43;4
+13;9;Nissan Leaf;3;5
+14;50;Peugeot Partner Long;6;3
+15;51;Peugeot Traveller;8;9
+16;14;Peugeot Expert Long;6;3
+17;11;Nissan Evalia;4;7
+18;18;Skoda Citigo;43;4
+19;3;Skoda Rapid;3;5
+20;19;Volkswagen Caravelle;8;9
+21;10;Nissan Leaf 2;3;5
+22;54;Toyota Corolla hybrid;1;5
